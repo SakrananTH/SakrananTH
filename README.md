@@ -28,14 +28,7 @@ I am a passionate developer based in **Thailand**, with a strong focus on Web De
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakrananTH&show_icons=true&theme=radical" alt="SakrananTH's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakrananTH&theme=radical" alt="SakrananTH's Streak" />
-</p>
+-----
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SakrananTH)
