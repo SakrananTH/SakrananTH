@@ -1,4 +1,4 @@
-### 👨‍💻 Full Stack Developer & Ai
+### 👨‍💻 Full Stack Developer & AI
 
 I am a passionate developer based in **Thailand**, with a strong focus on Web Development and Game Programming. I enjoy building systems from the ground up, whether it's a dynamic website or an interactive experience on Roblox.
 
